@@ -8,7 +8,7 @@ We have a JSON file in `/tmp/j.json`:
 
 ```json
 {
-  "Title" : "404 Not Found"
+  "Title" : "404 Not Found",
   "Html"  : "<h1>404 Not Found</h1><p>File does not exist.</p>"
 }
 ```
