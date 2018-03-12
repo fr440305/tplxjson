@@ -30,7 +30,7 @@ And we have a go-style template in `/tmp/t.tpl`:
 
 Now we want to use command to combine this two files together.
 
-## Solution
+## A solution by using this tool
 
 ```sh
 go get github.com/fr440305/tplxjson
