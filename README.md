@@ -1,6 +1,6 @@
 # tplxjson
 
-A super simple tool for rendering JSON into go-style template. 
+A super simple and silly tool for rendering JSON into go-style template. 
 
 ## Demand
 
@@ -23,7 +23,7 @@ And we have a go-style template in `/tmp/t.tpl`:
 
 </head><body>
 
-  {{.Content}}
+  {{.Html}}
 
 </body></html>
 ```
